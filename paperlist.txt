@@ -1,0 +1,103 @@
+Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings
+Meta-reinforcement learning via orbitofrontal cortex
+Preserved neural dynamics across animals performing similar behaviour
+Sampling-based Bayesian inference in recurrent circuits of stochastic spiking neurons
+Human-like systematic generalization through a meta-learning neural network
+Associative and predictive hippocampal codes support memory-guided behaviors
+Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex
+Brain-wide representations of behavior spanning multiple timescales and states in C. elegans
+Scaffolding cooperation in human groups with deep reinforcement learning
+Reliable population code for subjective economic value from heterogeneous neuronal signals in primate orbitofrontal cortex
+Subjective signal strength distinguishes reality from imagination
+Self-reported childhood family adversity is linked to an attenuated gain of trust during adolescence
+How to build a cognitive map
+Flexible social inference facilitates targeted social learning when rewards are not observable
+Empowerment contributes to exploration behaviour in a creative video game
+Expertise increases planning depth in human gameplay
+Decoding reward–curiosity conflict in decision-making from irrational behaviors
+Differential replay of reward and punishment paths predicts approach and avoidance
+Rethinking model-based and model-free influences on mental effort and striatal prediction errors
+The neural architecture of theory-based reinforcement learning
+Integrated cardio-behavioral responses to threat define defensive states
+Generative replay underlies compositional inference in the hippocampal-prefrontal circuit
+Life-inspired Interoceptive Artificial Intelligence for Autonomous and Adaptive Agents
+The Heterogeneity Problem: Approaches to Identify Psychiatric Subtypes
+Why Trust the Subject?
+Exploratory graph analysis: A new approach for estimating the number of dimensions in psychological research
+Mesolimbic dopamine release conveys causal associations
+Could a Neuroscientist Understand a Microprocessor?
+Inferring neural signalling directionality from undirected structural connectomes
+Emergence of syntax and word prediction in an artificial neural circuit of the cerebellum
+Single-neuronal elements of speech production in humans
+Lateral entorhinal cortex subpopulations represent experiential epochs surrounding reward
+Balancing risk-return decisions by manipulating the mesofrontal circuits in primates
+Iterative Bayesian Estimation as an Explanation for Range and Regression Effects: A Study on Human Path Integration
+Experimental Validation of the Free Energy Principle
+The dynamic state of prefrontal-hypothalamic-midbrain circuit commands behavioral transitions
+Learning attentional templates for value-based decision making
+Bayesianism and wishful thinking are compatible
+Tuned geometries of hippocampal representations meet the computational demands of social memory
+Dopamine transients follow a striatal gradient of reward time horizons
+A unifying theory explains seemingly contradictory biases in perceptual estimation
+Human languages with greater information density have higher communication speed but lower conversation breadth
+Generalization guides human exploration in vast decision spaces
+The role of the human hippocampus in decision-making under uncertainty
+A neurofunctional signature of subjective disgust generalizes to oral distaste and socio-moral contexts
+Preferences reveal dissociable encoding across prefrontal-limbic circuits
+Hue selectivity from recurrent circuitry in Drosophila
+Episodic memory retrieval success is associated with rapid replay of episode content
+A recurrent network model of planning explains hippocampal replay and human behavior
+Decision uncertainty as a context for motor memory
+Mental navigation in the primate entorhinal cortex
+Discovering neural policies to drive behaviour by integrating deep reinforcement learning agents with biological neural networks
+Predictive sequence learning in the hippocampal formation
+Uncovering 2-D toroidal representations in grid cell ensemble activity during 1-D behavior
+Hippocampal and orbitofrontal neurons contribute to complementary aspects of associative structure
+Reward prediction error neurons implement an efficient code for reward
+Prefrontal cortex as a meta-reinforcement learning system
+Neural and behavioural state switching during hippocampal dentate spikes
+Uncovering 2-D toroidal representations in grid cell ensemble activity during 1-D behavior  # duplicate kept for completeness
+A neural mechanism for conserved value computations integrating information and rewards
+Integration and competition between space and time in the hippocampus
+Inhibitory plasticity supports replay generalization in the hippocampus
+Prefrontal and lateral entorhinal neurons co-dependently learn item–outcome rules
+Abstract representations emerge in human hippocampal neurons during inference
+Causal evidence of a line attractor encoding an affective state
+Automated construction of cognitive maps with visual predictive coding
+The neural network RTNet exhibits the signatures of human perceptual decision-making
+Flexible multitask computation in recurrent networks utilizes shared dynamical motifs
+Learning to express reward prediction error-like dopaminergic activity requires plastic representations of time
+Humans adaptively deploy forward and backward prediction
+Complex behavior from intrinsic motivation to occupy future action-state path space
+A framework for the emergence and analysis of language in social learning agents
+Signatures of rapid plasticity in hippocampal CA1 representations during novel experiences
+Learning produces an orthogonalized state machine in the hippocampus
+Episodic and associative memory from spatial scaffolds in the hippocampus
+Constructing future behavior in the hippocampal formation through composition and replay
+Space is a latent sequence: A theory of the hippocampus
+The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex
+Synaptic plasticity rules driving representational shifting in the hippocampus
+Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems
+Coordinated representations for naturalistic memory encoding and retrieval in hippocampal neural subspaces
+Abstract representations emerge in human hippocampal neurons during inference  # duplicate
+Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models during noisy representation learning
+Human hippocampal and entorhinal neurons encode the temporal structure of experience
+Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code
+Integration and competition between space and time in the hippocampus  # duplicate
+Hidden state inference requires abstract contextual representations in the ventral hippocampus
+Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex  # duplicate
+From cognitive maps to spatial schemas
+Graph schemas as abstractions for transfer learning inference and planning
+Non-invasive temporal interference electrical stimulation of the human hippocampus
+Brain-wide microstrokes affect the stability of memory circuits in the hippocampus
+Remapping revisited: how the hippocampus represents different spaces
+Organizing memories for generalization in complementary learning systems
+Disruption of the grid cell network in a mouse model of early Alzheimer’s disease
+Goal-specific hippocampal inhibition gates learning
+Universal statistics of hippocampal place fields across species and dimensionalities
+Sleep loss diminishes hippocampal reactivation and replay
+Retuning of hippocampal representations during sleep
+The neural basis of mental navigation in rats
+Object-centered population coding in CA1 of the hippocampus
+Insight predicts subsequent memory via cortical representational change and hippocampal activity
+Schema-learning and rebinding as mechanisms of in-context learning and emergence

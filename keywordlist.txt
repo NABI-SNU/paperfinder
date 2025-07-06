@@ -1,0 +1,41 @@
+bci
+brain computer interface
+brain simulation
+computational psychiatry
+connectome
+connectomics
+consciousness
+constructed emotion
+dynamical systems
+dynamics and chaos
+explainable ai
+gnn
+inductive bias
+information
+information theory
+knowledge graph embedding
+memory
+memory consolidation in sleep
+memory hierarchy
+meta-algorithm design
+meta-learning
+modeling assumption
+multisensory integration
+natural language processing
+neural development
+neural manifold
+neural representation
+neuro inspired-ai
+neuro-symbolic reasoning
+neuronal dynamics
+neuromorphic computing
+neuroprosthesis
+predictive coding
+reinforcement learning
+representation
+representative learning
+reversal learning
+thermodynamic approach
+visual cortex foundation model
+
+

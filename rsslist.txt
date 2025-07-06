@@ -1,0 +1,12 @@
+https://rss.arxiv.org/rss/q-bio.NC
+https://rss.arxiv.org/rss/cs.AI
+https://rss.arxiv.org/rss/cs.CL
+https://www.cell.com/cell/rss
+https://www.cell.com/neuron/rss
+https://www.nature.com/nature/current_issue/rss
+https://www.nature.com/neuro/current_issue/rss
+https://www.nature.com/ncomms/rss
+https://www.nature.com/nrn/current_issue/rss
+https://www.science.org/rss/current.xml
+https://www.science.org/action/showFeed?type=etoc&jc=sciadv
+https://deepmind.com/blog/feed/basic 

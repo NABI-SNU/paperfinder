@@ -94,9 +94,13 @@ def score_papers(
         + "\n".join(f"- {title}" for title in previous_titles)
         + "\n\n## Recent Papers:\n"
         + recent_section
-        + "\n\nList the top 3–5 papers most likely to be of interest. For each, briefly "
-        "explain why it matches the interests.\nRespond in bullet points. Each "
-        "bullet should include the paper title and a brief rationale."
+        + "\n\nList the top 3–5 papers most likely to be of interest. For each, briefly"
+        + "list the paper title as a heading (##) and include a link to the paper "
+        + "formatted as 'Link: [Author, Year](doi link)'."
+        + "A series of bullet points should follow the heading, each with a summary of the paper."
+        + "The summary should be a concise description of the paper's main points."
+        + "The summary should be no more than 100 words."
+        + "This should be repeated for each paper."
     )
 
     response = model.generate_content(prompt)

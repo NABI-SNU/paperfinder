@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=67", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paperfinder_nabi"
+version = "0.1.0"
+description = "Collect and rank research papers using Gemini"
+authors = [{name = "nabi"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "feedparser",
+    "google-generativeai",
+]
+
+[tool.setuptools.package-data]
+"paperfinder_nabi" = ["data/*.txt"]

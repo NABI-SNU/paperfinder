@@ -26,7 +26,7 @@ def main() -> None:
     title = now.strftime("%B %Y")
     slug = now.strftime("%B-%Y").lower()
 
-    mdx_path = Path("src/pages/monthly") / f"{slug}.mdx"
+    mdx_path = Path("src/data/news") / f"{slug}.mdx"
     mdx_content = f"""---
 title: {title}
 layout: '~/layouts/MarkdownLayout.astro'
